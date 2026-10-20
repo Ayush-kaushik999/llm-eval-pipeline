@@ -1,0 +1,14 @@
+[
+  {
+    "test_id": "test_001",
+    "prompt": "Explain the concept of Reciprocal Rank Fusion in search systems.",
+    "ground_truth": "RRF combines multiple result lists without score normalization.",
+    "expected_keywords": ["Reciprocal Rank Fusion", "lists", "normalization"]
+  },
+  {
+    "test_id": "test_002",
+    "prompt": "What are the benefits of using Pydantic with FastAPI?",
+    "ground_truth": "Pydantic provides runtime data validation and clear schema definition.",
+    "expected_keywords": ["validation", "schema", "FastAPI"]
+  }
+]
